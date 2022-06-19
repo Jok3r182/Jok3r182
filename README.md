@@ -7,7 +7,7 @@
 
 💻 Experience :
 
-<img align="left" src="https://ibb.co/L537205" width="auto"/>
+<img align="left" src="https://ibb.co/L537205.png" width="auto"/>
 
 
 <br/><br/><br/>
