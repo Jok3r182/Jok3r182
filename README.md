@@ -11,8 +11,8 @@
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/3BDrXr1/a9326d72465217-5be8ae1c0a8a7.png" alt="a9326d72465217-5be8ae1c0a8a7" border="0" width="200"></a>
 <br/>
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/YhN4NFf/1-o-NM0-JVqivoi3l-VPF6ygp9-Q.png" alt="1-o-NM0-JVqivoi3l-VPF6ygp9-Q" border="0" width="200" height="100"></a>
-<a href="https://ibb.co/XCKykWM"><img src="https://i.ibb.co/hm4X1gw/react-logo.webp" alt="react-logo" border="0" width="200"></a>
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/3z30TGV/python-logo-master-v3-TM-flattened.png" alt="python-logo-master-v3-TM-flattened" border="0"></a>
+<a href="https://ibb.co/XCKykWM"><img src="https://i.ibb.co/hm4X1gw/react-logo.webp" alt="react-logo" border="0" width="200"></a><br/>
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/3z30TGV/python-logo-master-v3-TM-flattened.png" alt="python-logo-master-v3-TM-flattened" width="200" border="0"></a>
 <br/><br/><br/>
 
 ![](https://komarev.com/ghpvc/?username=Jok3r182)
