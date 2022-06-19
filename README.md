@@ -1,5 +1,5 @@
 # 👋 Hi!
-<a href="https://github.com/Jok3r182"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jok3r182&theme=merko&&hide=blade,C&langs_count=3)"/></a> <a href="https://awesome-github-stats.azurewebsites.net/index.html?cardType=github&theme=merko"><img  alt="Jok3r182's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/Jok3r182?theme=merko" />  </a>
+<a href="https://github.com/Jok3r182"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jok3r182&theme=merko&&hide=blade,C&langs_count=3)"/></a> [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Jok3r182?cardType=github&theme=merko)](https://git.io/awesome-stats-card)
 <br/><br/>
 
 ⚡ About me:
