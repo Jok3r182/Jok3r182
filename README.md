@@ -8,10 +8,7 @@
 💻 Experience :
 
 <img align="left" src="https://ibb.co/L537205" width="auto"/>
-<img align="left" src="https://ibb.co/18DvVvZ" />
-<img align="left" src="https://ibb.co/sqgpgds"/>
-<img align="left" src="https://ibb.co/0nvHJsR"/>
-<img align="left" src="https://ibb.co/N1smCmS"/>
+
 <br/><br/><br/>
 
 ![](https://komarev.com/ghpvc/?username=Jok3r182)
