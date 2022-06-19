@@ -8,11 +8,7 @@
 💻 Experience :
 
 <img align="left" src="[https://ibb.co/L537205](https://ibb.co/L537205)" width="auto"/>
-https://ibb.co/L537205
-https://ibb.co/18DvVvZ
-https://ibb.co/sqgpgds
-https://ibb.co/0nvHJsR
-https://ibb.co/N1smCmS
+
 
 <br/><br/><br/>
 
