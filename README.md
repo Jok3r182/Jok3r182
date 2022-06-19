@@ -7,11 +7,11 @@
 
 💻 Experience :
 
-<img align="left" src="https://ibb.co/L537205" width="60"/>
-<img align="left" src="https://ibb.co/18DvVvZ" width="60"/>
-<img align="left" src="https://ibb.co/sqgpgds" width="60"/>
-<img align="left" src="https://ibb.co/0nvHJsR" width="60"/>
-<img align="left" src="https://ibb.co/N1smCmS" width="60"/>
+<img align="left" src="https://ibb.co/L537205"/>
+<img align="left" src="https://ibb.co/18DvVvZ" />
+<img align="left" src="https://ibb.co/sqgpgds"/>
+<img align="left" src="https://ibb.co/0nvHJsR"/>
+<img align="left" src="https://ibb.co/N1smCmS"/>
 <br/><br/><br/>
 
 ![](https://komarev.com/ghpvc/?username=Jok3r182)
