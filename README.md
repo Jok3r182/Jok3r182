@@ -4,7 +4,7 @@
 
 ⚡ About me:
 
-  *  📚 Learning **React** and **React Native**
+  *  📚 Learning **NodeJS** and **React Native**
   *  🎓 Bachelor's degree of *Information Systems Software Engineering* at **Vilnius Tech**
 <br/><br/>
 
