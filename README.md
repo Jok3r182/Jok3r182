@@ -1,21 +1,20 @@
-# 👋 Hi!
-<a href="https://github.com/Jok3r182"><img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jok3r182&&hide=blade&text_color=000000&bg_color=ffffff,C&langs_count=3)"/></a>   <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=merko"> <img  alt="Jok3r182's GitHub Stats" height="200" src="https://awesome-github-stats.azurewebsites.net/user-stats/Jok3r182?cardType=github&theme=merko" />  </a>
-<br/><br/>
+<h1 align="center">Hi 👋, I'm Matas</h1>
+<h3 align="center">A passionate frontend developer from Lithuania</h3>
 
-⚡ About me:
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jok3r182&label=Profile%20views&color=0e75b6&style=flat" alt="jok3r182" /> </p>
 
-  *  📚 Learning **NodeJS** and **React Native**
-  *  🎓 Bachelor's degree of *Information Systems Software Engineering* at **Vilnius Tech**
-<br/><br/>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jok3r182" alt="jok3r182" /></a> </p>
 
-💻 Experience:
+- 🌱 I’m currently learning **NodeJS and React Native**
 
-<a href="https://ibb.co/L537205"><img src="https://i.ibb.co/C2fGTw2/Tensor-Flow-logo-svg.png" alt="Tensor-Flow-logo-svg" border="0" width="200"></a>
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/3BDrXr1/a9326d72465217-5be8ae1c0a8a7.png" alt="a9326d72465217-5be8ae1c0a8a7" border="0" width="200"></a>
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/YhN4NFf/1-o-NM0-JVqivoi3l-VPF6ygp9-Q.png" alt="1-o-NM0-JVqivoi3l-VPF6ygp9-Q" border="0" width="200" height="100"></a>
-<br/>
-<a href="https://ibb.co/XCKykWM"><img src="https://i.ibb.co/hm4X1gw/react-logo.webp" alt="react-logo" border="0" width="200"></a>
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/3z30TGV/python-logo-master-v3-TM-flattened.png" alt="python-logo-master-v3-TM-flattened" width="300" border="0"></a>
-<br/><br/><br/><br/>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://discord.gg/#2720" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#2720" height="30" width="40" /></a>
+</p>
 
-![](https://komarev.com/ghpvc/?username=Jok3r182)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jok3r182&show_icons=true&locale=en&layout=compact" alt="jok3r182" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jok3r182&show_icons=true&locale=en" alt="jok3r182" /></p>
