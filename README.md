@@ -15,4 +15,4 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 ---
-[![](https://visitcount.itsvg.in/api?id=Jok3r182&icon=2&color=12)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Jok3r182&label=Profile%20Views&color=12&icon=6&pretty=true)](https://visitcount.itsvg.in)
