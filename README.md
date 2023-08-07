@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning SwiftUI and React Native<br>🎓 Bachelor's degree of Information Systems Software Engineering at Vilnius Tech
+🌱 I’m currently learning SwiftUI<br>🎓 Bachelor's degree of Information Systems Software Engineering at Vilnius Tech
 
 
 ## 🌐 Socials:
