@@ -10,17 +10,21 @@
 
 # 📊 GitHub Stats and Random Dev Quote:
 <div style="display: flex; flex-wrap: wrap; justify-content: space-around; align-items: center;">
+
   <div>
     <img src="https://github-readme-stats.vercel.app/api?username=Jok3r182&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" style="width: 100%; max-width: 400px; margin: 10px;">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jok3r182&theme=dark&hide_border=false" alt="GitHub Streak" style="width: 100%; max-width: 400px; margin: 10px;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jok3r182&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" style="width: 100%; max-width: 400px; margin: 10px;">
   </div>
+
   <div>
-    ### ✍️ Random Dev Quote
+    <h3>✍️ Random Dev Quote</h3>
     ![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
     <img src="https://visitcount.itsvg.in/api?id=Jok3r182&label=Profile%20Views&color=12&icon=6&pretty=true" alt="random quote"  style="width: 100%; max-width: 400px; margin: 10px;">
   </div>
+
 </div>
+
 
 
 
