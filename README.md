@@ -14,8 +14,9 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jok3r182&theme=dark&hide_border=false" alt="GitHub Streak" width="45%" style="margin: 5px">
 </div>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jok3r182&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" width="90%" style="margin: 5px">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jok3r182&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" width="70%" style="margin: 5px">
 </div>
+
 
 
 ### ✍️ Random Dev Quote
