@@ -19,8 +19,7 @@
 
   <div>
     <h3>✍️ Random Dev Quote</h3>
-    ![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-    <img src="https://visitcount.itsvg.in/api?id=Jok3r182&label=Profile%20Views&color=12&icon=6&pretty=true" alt="random quote"  style="width: 100%; max-width: 400px; margin: 10px;">
+    [![Random Dev Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
   </div>
 
 </div>
