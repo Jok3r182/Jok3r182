@@ -17,8 +17,7 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jok3r182&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" style="width: 100%; max-width: 400px; margin: 10px;">
   </div>
 </div>
- [![readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal)](https://github.com/piyushsuthar/github-readme-quotes)
-
+[![readme Quotes](https://quotes-github-readme.vercel.app/api?border=true)](https://github.com/piyushsuthar/github-readme-quotes)
 
 
 
