@@ -16,8 +16,8 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jok3r182&theme=dark&hide_border=false" alt="GitHub Streak" style="width: 100%; max-width: 400px; margin: 10px;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jok3r182&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" style="width: 100%; max-width: 400px; margin: 10px;">
   </div>
- [![readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal)](https://github.com/piyushsuthar/github-readme-quotes)
 </div>
+ [![readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal)](https://github.com/piyushsuthar/github-readme-quotes)
 
 
 
