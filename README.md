@@ -22,5 +22,5 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 ---
 <div style="display: flex; flex-wrap: wrap; justify-content: space-around; align-items: center;">
-[![](https://visitcount.itsvg.in/api?id=Jok3r182&label=Profile%20Views&color=12&icon=6&pretty=true)](https://visitcount.itsvg.in)
+  <img src="https://visitcount.itsvg.in/api?id=Jok3r182&label=Profile%20Views&color=12&icon=6&pretty=true" alt="random quote"  style="width: 100%; max-width: 400px; margin: 10px;">
 </div>
