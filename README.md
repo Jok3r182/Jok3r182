@@ -17,8 +17,8 @@
   </div>
 </div>
 
-# ✍️ Random quote
-[![readme Quotes](https://quotes-github-readme.vercel.app/api?border=true)](https://github.com/piyushsuthar/github-readme-quotes)
+# ✍️ Random Dev Quote
+[![readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal)](https://github.com/piyushsuthar/github-readme-quotes)
 
 
 
