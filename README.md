@@ -19,7 +19,7 @@
 
   <div>
     <h3>✍️ Random Dev Quote</h3>
-    [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)]
+    [![readme Quotes](https://quotes-github-readme.vercel.app/api?theme=catppuccin)](https://github.com/piyushsuthar/github-readme-quotes)
   </div>
 
 </div>
