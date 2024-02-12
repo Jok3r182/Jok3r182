@@ -1,5 +1,5 @@
 # 💫 About Me:
-🧑‍💻 iOS Developer at IBM<br>🌱 I’m currently learning SwiftUI<br>🎓 Bachelor's degree of Information Systems Software Engineering at Vilnius Tech
+🧑‍💻 iOS Developer at IBM<br>🌱 I’m currently learning SwiftUI and Godot 🎮 <br>🎓 Bachelor's degree of Information Systems Software Engineering at Vilnius Tech
 
 
 ## 🌐 Socials:
