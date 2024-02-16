@@ -1,7 +1,6 @@
 # 💫 About Me:
 🧑‍💻 iOS Developer at IBM<br>🌱 I’m currently learning SwiftUI and Godot Engine<br>🎓 Bachelor's degree of Information Systems Software Engineering at Vilnius Tech
 
-
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/#2720) 
 
