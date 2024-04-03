@@ -2,7 +2,7 @@
 🧑‍💻 iOS Engineer at IBM<br>🌱 I’m currently learning SwiftUI, UIKit, Combine and Game development with Godot Engine<br>🎓 Bachelor's degree of Information Systems Software Engineering at Vilnius Tech university
 
 
-## 🌐 Socials
+# 🌐 Socials
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/#2720) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matas-paulius-dr%C4%97gva/) 
 
 # 💻 Tech Stack
