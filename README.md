@@ -1,5 +1,5 @@
 # 💫 About
-🧑‍💻 iOS Engineer at IBM<br>🌱 Currently mastering SwiftUI, UIKit, Combine, Obj-C and exploring Game development with Godot Engine<br>🎓 Bachelor's degree of Information Systems Software Engineering at Vilnius Tech university
+🧑‍💻 iOS Engineer at IBM<br>🌱 Currently mastering SwiftUI, UIKit, Combine, Objective-C and exploring Game development with Godot Engine<br>🎓 Bachelor's degree of Information Systems Software Engineering at Vilnius Tech university
 
 
 # 🌐 Socials
