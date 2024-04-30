@@ -1,5 +1,5 @@
 # 💫 About
-🧑‍💻 iOS developer at IBM.<br>🌱 Currently mastering SwiftUI, UIKit, Combine, Objective-C and exploring Game development with Godot Engine and Aseprite.<br>🎓 Bachelor's degree of Information Systems Software Engineering at Vilnius Tech university.
+🧑‍💻 iOS developer at IBM.<br>🌱 Currently mastering SwiftUI, UIKit, Objective-C and exploring Game development with Godot Engine and Aseprite.<br>🎓 Bachelor's degree of Information Systems Software Engineering at Vilnius Tech university.
 
 
 # 🌐 Socials
